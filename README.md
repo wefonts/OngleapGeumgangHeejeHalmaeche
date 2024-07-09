@@ -1,5 +1,5 @@
 <pre>
-  @font-face {
+@font-face {
     font-family: "OngleapGeumgangHeejeHalmaeche";
     font-weight: 300;
     font-style: normal;
